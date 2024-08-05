@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SusheelKm513
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning full stack
+- 👀 I’m interested in Data Analyst Role
+- 🌱 I’m learning Data Analytics
 - 📫 How to reach me ...
 
 <!---
